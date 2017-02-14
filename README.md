@@ -61,7 +61,5 @@ Panteon.Sdk
   }
 ```
 
-_More coming soon (:_
-
 ## License
 Code and documentation are available according to the *MIT* License (see [LICENSE](https://raw.githubusercontent.com/PanteonProject/Panteon.Sdk/master/LICENSE)).
